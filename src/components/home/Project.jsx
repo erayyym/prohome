@@ -104,7 +104,7 @@ const Project = ({ heading }) => {
     {
       name: "ItsAtrap",
       description: "This is a game full of traps. It is fully designed by me Tech Used: Unity; Physics System: Collider, Trigger, etc.; Event System; Coroutine;Room by room carmera.",
-      svn_url: "https://anemocider.itch.io/zelda-remaster",
+      svn_url: "https://erayyym.itch.io/iwannawin",
       languages: [
         { name: "Unity", percentage: "100" },
         { name: "C#", percentage: "100" },
