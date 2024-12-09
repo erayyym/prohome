@@ -89,6 +89,17 @@ import ProjectCard from "./ProjectCard";
 
 const Project = ({ heading }) => {
   const projectsArray = [
+
+    {
+      name: "SOLARISCAPE",
+      description: "3D space exploration game",
+      svn_url: "https://erayyym.itch.io/solariscape",
+      stargazers_count: 42,
+      languages: [
+        { name: "C##", percentage: "2.4" }
+      ],
+      pushed_at: "2023-04-01T00:00:00Z",
+    },
     {
       name: "Pocket Ledger",
       description: "Smart budgetting app that have AI helper, OCR text extraction from photo, voice recognition features! Enables user to do budget and get financial advice anytime, anywhere!",
